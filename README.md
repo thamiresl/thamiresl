@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Thamires Lourenço
 - 👀 I’m interested in technologies, programming, design, architecture, art, games, books and series. ...
 - 🌱 I’m currently learning Phyton, HTML and CSS.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thami.lourenco@outlook.com 
 
 <!---
