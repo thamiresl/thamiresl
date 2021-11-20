@@ -1,0 +1,14 @@
+   nome : Trabalhos para atualizar dados
+    roda em : ubuntu-mais recente
+    passos :
+      # Cartões de resumo
+      - usa : ações / checkout @ v2
+      - usa : vn7n24fzkq / github-profile-summary-cards @ release
+        env :
+          GITHUB_TOKEN : $ {{secrets.GITHUB_TOKEN}}
+        com :
+          NOME DE USUÁRIO : $ {{github.repository_owner}}
+
+      # Animação de cobra
+      - usa : Platane / snk @ master
+        id : snake-gif
