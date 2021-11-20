@@ -23,10 +23,8 @@
   <a href = "mailto:thami.lourenco@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/thamires-louren%C3%A7o-18aaa9177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/thamiresl/thamiresl/.github/fluxos de trabalho/main.yml)
  
 </div>
-
 
 <!---
 thamiresl/thamiresl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
