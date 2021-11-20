@@ -1,6 +1,6 @@
 ## Olá,  eu sou a Thamires Lourenço, bem vindos ao meu Github!!
 
-- 👀 I’m interested in technologies, programming, design, art, games, books and series. ...
+- 👀 I’m interested in technologies, programming, design, art, games, books and series...
 - 🌱 I’m currently learning Javascript, HTML and CSS.
 <div>
   <a href="https://github.com/thamiresl">
