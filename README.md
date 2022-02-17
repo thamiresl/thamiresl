@@ -1,7 +1,6 @@
 ## Olá,  eu sou a Thamires Lourenço, bem vindos ao meu Github!!
 
 - 👀 I’m interested in technologies, programming, design, art, games, books and series...
-- 🌱 I’m currently learning Javascript, HTML and CSS.
 <div>
   <a href="https://github.com/thamiresl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamiresl&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
