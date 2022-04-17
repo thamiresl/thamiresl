@@ -5,8 +5,6 @@
   <a href="https://github.com/thamiresl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamiresl&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
     
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wennycampos&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamiresl&layout=compact&theme=tokyonight)
-  
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,8 +23,3 @@
   <a href="https://www.linkedin.com/in/thamires-louren%C3%A7o-18aaa9177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       
 </div>
-<!---
-
-thamiresl/thamiresl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
