@@ -31,10 +31,10 @@
 </div>
 
 <div align="center">
-### Some projects:
- </div>
+ ### Some projects:
+</div>
  
- <table>
+<table>
   <tr>
     <td valign="top">
       <h2 align="center"><a href="https://thamiresl.github.io/tiSchoolMagic/">Trybewarts</a></h2>
@@ -50,5 +50,5 @@
       <p><strong>Tools/Methodologies:</strong> JavaScript, HTML, CSS</p>
     </td>
   </tr>
- </table>
+</table>
 
