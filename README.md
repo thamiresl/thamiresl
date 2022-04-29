@@ -32,10 +32,10 @@
 
 <div align="center">
 ### Some projects:
+ </div>
  
  <table>
   <tr>
- </td>
     <td valign="top">
       <h2 align="center"><a href="https://thamiresl.github.io/tiSchoolMagic/">Trybewarts</a></h2>
       <br>
@@ -43,7 +43,6 @@
       <p><strong>Tools/Methodologies:</strong> JavaScript, HTML, CSS</p>
     </td>
       
-    </td>
     <td valign="top">
       <h2 align="center"><a href="https://thamiresl.github.io/tiSchoolMagic/">Trybewarts</a></h2>
       <br>
@@ -51,5 +50,5 @@
       <p><strong>Tools/Methodologies:</strong> JavaScript, HTML, CSS</p>
     </td>
   </tr>
-  </div>
+ </table>
 
