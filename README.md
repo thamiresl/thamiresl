@@ -1,4 +1,4 @@
-## Olá, I'm Thamires Lourenço, welcome to my Github!! ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68281298/119243223-2ac5c200-bb3b-11eb-9d6f-2b6d98fa3c9e.gif)
+## Hi, I'm Thamires Lourenço, welcome to my Github!! ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68281298/119243223-2ac5c200-bb3b-11eb-9d6f-2b6d98fa3c9e.gif)
 
 ### -  I’m interested in technologies, programming, design, art, games, books and series...
  <br>
@@ -20,7 +20,7 @@
     <img align="center" alt="Thami-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="Thami-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </div>
- 
+<br> 
 #### For more informations talk to me on:
 <br>
  <div> 
