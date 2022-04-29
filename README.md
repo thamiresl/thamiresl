@@ -30,3 +30,26 @@
  </div> 
 </div>
 
+<div align="center">
+### Some projects:
+ 
+ <table>
+  <tr>
+ </td>
+    <td valign="top">
+      <h2 align="center"><a href="https://thamiresl.github.io/tiSchoolMagic/">Trybewarts</a></h2>
+      <br>
+      <br>
+      <p><strong>Tools/Methodologies:</strong> JavaScript, HTML, CSS</p>
+    </td>
+      
+    </td>
+    <td valign="top">
+      <h2 align="center"><a href="https://thamiresl.github.io/tiSchoolMagic/">Trybewarts</a></h2>
+      <br>
+      <br>
+      <p><strong>Tools/Methodologies:</strong> JavaScript, HTML, CSS</p>
+    </td>
+  </tr>
+  </div>
+
