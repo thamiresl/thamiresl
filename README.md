@@ -21,6 +21,7 @@
     <img align="center" alt="Thami-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </div>
 <br> 
+   
 #### For more informations talk to me on:
 <br>
  <div> 
