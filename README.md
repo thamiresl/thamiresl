@@ -1,8 +1,7 @@
 ## Olá,  eu sou a Thamires Lourenço, bem vindos ao meu Github!! ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68281298/119243223-2ac5c200-bb3b-11eb-9d6f-2b6d98fa3c9e.gif)
 
 #### -  I’m interested in technologies, programming, design, art, games, books and series...
-
-<div aligin="center">
+ <div align="center">
   <div>
   <a href="https://github.com/thamiresl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamiresl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,7 +18,7 @@
     <img align="center" alt="Thami-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="Thami-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </div>
-</div> 
+ </div>
   ##
   <div> 
   <a href="https://www.instagram.com/thami_lourenco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
