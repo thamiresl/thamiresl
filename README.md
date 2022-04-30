@@ -45,7 +45,8 @@
       <br>
       <p><strong>Tools/Methodologies:</strong> JavaScript, HTML, CSS</p>
     </td>
-  
+ </tr>
+  <tr>
     <td valign="top">
       <h2 align="center"><a href="https://thamiresl.github.io/todo-list/">To Do List</a></h2>
       <br>
