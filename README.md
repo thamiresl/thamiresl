@@ -9,10 +9,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamiresl&layout=compact&langs_count=7&theme=dracula"/>
   <br>
   </div>
+ </div>
 
 <br> 
-   
-####Tech Stack
+ 
+#### Tech Stack
 
 <h3>Languages</h3>
 
@@ -68,7 +69,7 @@
 
 #### For more informations talk to me on:
 <br>
- <section> 
+ <section align="center"> 
   <a href = "mailto:thami.lourenco@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/thamires-louren%C3%A7o-18aaa9177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </section> 
