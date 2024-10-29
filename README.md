@@ -29,7 +29,8 @@
 
 <img src="https://img.shields.io/badge/MySQL-00006E?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+
 
 <h4>Front-End</h4>
 
@@ -38,14 +39,6 @@
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-<h4>Test</h4>
-
-<img src="https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
-<img src="https://img.shields.io/badge/RTL-C21325?style=for-the-badge&logo=testing-library&logoColor=white">
-<img src="https://img.shields.io/badge/Chai-A30802?style=for-the-badge&logo=Chai&logoColor=white">
-<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white">
-<img src="https://img.shields.io/badge/Sinon-FFEBA3?style=for-the-badge&logo=Sinon&logoColor=white">
-<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
 
 <h4>Tools & Others</h4>
 
